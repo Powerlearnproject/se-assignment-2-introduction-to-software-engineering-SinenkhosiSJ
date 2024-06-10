@@ -1,0 +1,107 @@
+1. What is software engineering, and how does it differ from traditional programming? 
+
+Sotfware engineering is a branch of computer science that deals with the design, development, testing and maintenance of software applicaton. Programming is a thenological process of telling the commputer tasks to follow in order to solve a problem. Software engineering differs from programming because it incorparates engineering principles to solve problems with a computer. 
+
+References
+-coursera 
+-Michigian Technological University 
+
+2. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Agile vs. Waterfall Models:
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
+Software Development Life Cycle is a structured process for designing, developing and testing software.
+
+1. Planning and Requirement analysis
+-Requirement analysis is performed 
+-project scope is defined 
+-resource plannning 
+-project goals and objectives are set
+
+2. Design 
+-software engineers come up will solutions for creating the software as specified in the requirement analysis
+-idetifing development tools and technology choices
+
+3. Implementation
+- software is builds
+-ensuring code quality 
+
+4. Testing
+- Code is thoroughly tested to ensure stability, security, performance, efficiency
+- bug reporting, tracking and debugging
+
+5.Deployment 
+- application is released to users
+- user feedback is collected
+
+6. Maintenance
+-code enhancements
+- bug fixing 
+-adding application features
+
+The Waterfall SDLC model follows a linear and sequential approach where each stage of the development process is completed before progressing to the next stage. It is suitable for small projects with straight forward objectives and limited complexity. It is easy to predict timeframes and project completion due to its linear nature.
+
+The agile SDLC model is an iteractive process where the development team is separated into the six smaller teams. Each team is than assigned the six stages of production. This allows for a much quicker and more flexible process of development. The agile model is much suited for large scale projects that have a higher level of complexity.
+
+references
+- geeks for geeks
+
+3.  What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+Requirement engineering is a systematic and strict process of defining, creating and verifing the requirement of a software application. It helps ensure that the software being developed meets all the requirements of all the stakeholders. It also enables developes to identify potential issues early in the development lifecycle. 
+
+Requirement Engineering includes the processes:
+
+- Feasibility Study: it focuses on ensuring that the available resources will be able to achieve all the software requirements.
+
+-Requirement elicitation : it is the process of gathering information about the needs and expertations of stakeholders for a software system
+
+-Requirement Specification: is the process of documenting the requirements gathered  in requirement elicitation stage in a clear, consistant and unambiguous manner
+
+-Requirements Verification and Validation: Verification: It refers to the set of tasks that ensures that the software correctly implements a specific function. Validation: It refers to a different set of tasks that ensures that the software that has been built is traceable to customer requirements.
+
+-Requirement Management: is the process of managing the requirements throughout the software development life cycle, including tracking and controlling changes, and ensuring that the requirements are still valid and relevant.
+
+references:
+-geeks for geeks
+
+4. Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? 
+
+Modularity in software design refers to the practice of dividing software into separate, independent modules, each responsible for a distinct feature or functionality. 
+Changes in one module typically do not affect others, making bugs easier to track down and fix without risking other parts of the system.  This enables quick and ease of maintaince for the Sotfware program.
+Modular systems can be scaled more readily by adding new modules or enhancing existing ones without impacting the rest of the system.
+
+references
+-itu online
+
+
+5. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Unit testing - is a type of software testing that focuses on individual units or components of a software system. The purpose of unit testing is to validate that each unit of the software works as intended and meets the requirements.
+
+System testing - is a type of software testing that evaluates the overall functionality and performance of a complete and fully integrated software solution. It tests if the system meets the specified requirements and if it is suitable for delivery to the end-users.
+
+acceptance testing - is a method of software testing where a system is tested for acceptability. The major aim of this test is to evaluate the compliance of the system with the business requirements and assess whether it is acceptable for delivery or not.
+
+Importance of testing in software development
+- enable that the program works as intended for the end users
+- ensure that the program is secure
+
+references
+- geeks for geeks 
+
+6. What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Version Control System - is a Sotfware tool that enables software teams to manage changes to source code over time.
+
+Importance of version control system
+- A complete long-term change history of every file
+- Traceability. Being able to trace each change made to the software and connect it to project management
+-Accelerates product delivery
+
+Version Control System examples:
+- Helix Core 
+-git 
+
+7. 
